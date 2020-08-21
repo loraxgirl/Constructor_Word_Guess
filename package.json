@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Node app utilizing constructors to build a guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loraxgirl/Constructor_Word_Guess.git"
+  },
+  "author": "Krista Clarke",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/loraxgirl/Constructor_Word_Guess"
+  },
+  "homepage": "https://github.com/loraxgirl/Constructor_Word_Guess",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
